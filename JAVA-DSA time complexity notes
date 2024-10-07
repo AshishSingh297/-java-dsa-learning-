@@ -1,0 +1,6 @@
+TIME COMPLEXITY :
+-time complexity : relation between input size & running time ( operation)
+
+- best case = omega 1
+- average case = theta (n+1/2)
+- worst case = big O (n)
